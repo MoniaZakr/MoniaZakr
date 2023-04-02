@@ -1,7 +1,7 @@
-[![MasterHead](https://www.123rf.com/photo_114858342_mobile-app-development-and-design-sketch-layout-of-mobile-application-debug-on-smartphone-and.html?vti=mube8kfnvirngoyp9x-1-196)](https://rishavchanda.io)
+![MasterHead](manhattan-3866140_640.jpg)
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-(img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/gifs/comments/5sulf5/a_programmers_dilemma/?utm_source=share&utm_medium=web2x&context=3")
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moniazakr&label=Profile%20views&color=0e75b6&style=flat" alt="moniazakr" /> </p>
 
