@@ -1,4 +1,4 @@
-![MasterHead](manhattan-3866140_640.jpg)
+![MasterHead](https://github.com/MoniaZakr/MoniaZakr/blob/main/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
